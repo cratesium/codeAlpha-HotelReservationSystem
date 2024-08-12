@@ -27,17 +27,17 @@ A simple Java-based command-line application for managing hotel room reservation
 
    ```bash
    git clone https://github.com/cratesium/codeAlpha-HotelReservationSystem.git
-2.**Navigate to the project directory:**:
-```bash
+2. **Navigate to the project directory:**:
+   ```bash
     cd HotelReservationSystem
     
 
-3.**compile Code**:
-```bash
+3. **compile Code**:
+   ```bash
     javac HotelReservationSystem.java
 
-4.**Run code**:
-```bash
+4. **Run code**:
+   ```bash
     java HotelReservationSystem
     
 ##Author :Shikhar pratap  Singh
