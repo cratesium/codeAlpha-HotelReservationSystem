@@ -6,7 +6,6 @@ A simple Java-based command-line application for managing hotel room reservation
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Author](#author)
 
 ## Features
